@@ -11,10 +11,10 @@ function App() {
         <Header headerClass="main_title" title="Hi. I'm Syed.">
           <span className="main_subtitle">A Software Engineer.</span>
         </Header>
-        <p className="text">I am a full-stack developer and tech ethusiast with a passion for making life easier through software.</p>
+        <p className="text">I am a full-stack developer and tech enthusiast with a passion for making life easier through software.</p>
         <Footer>
           <p className="footer_text">Have an exciting project where you need some help? 
-            <span className="main_subtitle"> Send me a message, and let's chat.</span>
+            <span className="main_subtitle"> Send me an email, and let's chat.</span>
           </p>
         </Footer>
       </div>
